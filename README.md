@@ -64,7 +64,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 
 ## Education
 
-### Goldsmith, University of London (Sep 2023 to Sep 2024)
+### Goldsmiths, University of London (Sep 2023 to Sep 2024)
 - Msc Virtual and Augmented Reality
 - Grade: Pass with Distinction
 
