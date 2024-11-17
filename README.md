@@ -62,44 +62,32 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 | Equirectangular Distortion Tool | The tool is an easy to use, and affordable way to generate 360 images using an equirectangular projection. 360 images are an accessible form of producing immersive experiences. They can be distributed easily on the web, with platforms such as Facebook and Youtube. We solved the technical challenge of the distortion of the equirectangular projection. | Python, MatPlotLib, Tkinter, NumPy              | https://www.youtube.com/watch?v=xTcL9EMgLiE
 | Zoetrope Experience | Zoetrope Experience recreates a Zoetrope an archaic 19th century animation device in a digital environment. The game was built in Unity and is currently browser based. It is intended to be an educational experience inspiring interest in the history of animation. The experience will be recreated in Virtual Reality for use as a museum exhibit. You can play the game [here](https://matharotheelf.itch.io/zoetrope-experience). | C#, Unity             | https://www.tomartcode.com/work/zoetrope
 
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+### Goldsmith, University of London (Sep 2023 to Sep 2024)
+- Msc Virtual and Augmented Reality
+- Grade: Pass with Distinction
+
+I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. This has inspired my ambition to explore human and machine interaction.
+
+### Makers Academy (Nov 2018 to Feb 2019)
+An intense 3 month software development course that grounded me in the fundamental of professional software development. Specifically training me in a rigorous test driven, and iterative approach to coding.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+### New College, Oxford (Graduated July 2018)
+- BA Physics
+- Grade: 2:1
+- Academic Scholar
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+ I honed my problem solving capabilities in a wide range of practicle and theoretical subjects. In my final project I collaborated with researchers at the Diamond Light Source accelerator. I researched how to optimise the performance of evolutionary algorithms for deducing the optimal path of a beamline. This began my fascination with machine learning and software. I completed modules ina dvanced topics including Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics.
+
+### Whitgift School, Croydon (Sep 2006 - Aug 2013)
+- Academic scholar
+- A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
+- 11 A*s GCSE
 
 #### Any other qualifications
 
