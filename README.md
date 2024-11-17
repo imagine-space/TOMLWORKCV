@@ -14,7 +14,7 @@ Seedrs X Republic is a equity crowfunding and venture captial firm where I work 
 
 #### Projects
 
-- I worked on a payment integration project with automated payment provider Banked. This allowed users to pay through automated bank transfer which is more convenient than using a card through stripe or a manual bank transfer.
+- I worked on a payment integration project with automated payment provider Banked. This allowed users to pay through automated bank transfer which is more convenient than using a card or a manual bank transfer.
 - I maintained and built software to handle client money and asset operations. These involved some of the most exciting startups and venture capital institutions in Europe. We handled mergers, acquisitions and floatations.
 - I built a first of its kind drawdowns investment product for venture capital fund Atomico. Allowing retail investors to invest in venture capital funds through the Seedrs platform. The investment process was split into multiple tranches where automated payments were collected and processed from users and assets distributed. The complexity here was investigating how a large financial monolithic application could handle a new investment process.
 - I was promoted to the lead of the FCA UK regulation team. We were tasked with updating the Seedrs platform to satisfy FCA regulations by a fixed deadline. Both our deadlines were acheived and we successfully passed an external regulatory audit. The project involved managing and motivating a team whilst translating specifications from stakeholders in compliance to technical solutions.
@@ -35,10 +35,10 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 
 #### Projects
 
-- I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells. This led to a multi-million pound deal with Connels being completed.
+- I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells. This led to a multi-million pound deal with Connells being completed.
 - I configured and built applications on a Docker Container Network.
 - I led a project to allow articles for multiple sites to be loaded through a Database API. This project included implementing multi-layered caching and overhauling legacy software.
-- I worked on a project for property withing certain geographical boundaries using geoqueries. 
+- I worked on a project for locating property within certain geographical boundaries using geoqueries. 
 
 #### Tech Stack
 
@@ -91,12 +91,12 @@ An intense 3 month software development course that grounded me in the fundament
 
 ## Social Good
 
-- I volunteered at the Science Museum where I teach children to code through CoderDojo
-- I mentor software engineering at Codebar
+- I volunteered at the Science Museum where I taught children to code through CoderDojo.
+- I mentor disadvantaged students in software engineering at Codebar.
 - I mentored a refugee who wants to become a software engineer. He is now enrolled on a coding bootcamp.
 
 ## Hobbies
 
 I am a keen visual artist who uses an eclectic range of media including drawing, painting and print. I take regular classes at The Art Academy London and took a residency at Karuizawa Mokuhanga School. The synergy of my artistic and technological pursuits is evident in how I approach problem solving. I am excited to further explore this synergy.
 
-I enjoy music and play the shakuhachi, play the drums and throat sing at beginner level.
+I enjoy music and play the shakuhachi, play the drums, and throat sing at beginner level.
