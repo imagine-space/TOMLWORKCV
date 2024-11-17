@@ -6,10 +6,13 @@ Human and machine interaction has the potential to revolutionise society both cr
 
 ## Work Experience
 
-Seedrs x Republic (Oct 2021 - Present)  
+### Seedrs x Republic (Oct 2021 - Present)
+
 Software Engineer
 
 Seedrs X Republic is a equity crowfunding and venture captial firm where I work as a fullstack engineer. I started as a platform engineer maintaining and building a large monolithic financial system. The platform handles sensitive operations involving client assets and money. I was promoted to the lead of the regulations team. We were responsible for updating the platform to be compliant with new FCA regulations in a fixed timeframe. Furthermore we were in charge of satisfying EU regulations so the firm could expand into Europe.
+
+#### Projects
 
 - I worked on a payment integration project with automated payment provider Banked. This allowed users to pay through automated bank transfer which is more convenient than using a card through stripe or a manual bank transfer.
 - I maintained and built software to handle client money and asset operations. These involved some of the most exciting startups and venture capital institutions in Europe. We handled mergers, acquisitions and floatations.
@@ -17,26 +20,27 @@ Seedrs X Republic is a equity crowfunding and venture captial firm where I work 
 - I was promoted to the lead of the FCA UK regulation team. We were tasked with updating the Seedrs platform to satisfy FCA regulations by a fixed deadline. Both our deadlines were acheived and we successfully passed an external regulatory audit. The project involved managing and motivating a team whilst translating specifications from stakeholders in compliance to technical solutions.
 - After completing the FCA regulations, I led the team in updating the platform to satisfy a new set of European regulations. This allowed Republic to offer investment oppurtunities to European investors. Again this project involved meeting tight deadlines as the whole company was focused on European expansion. A large part of the project involved internationalisation and localistation of the website which was difficult owing to the multiple sources of content in the ecosystem. We successfully satisfied the regulations on time.
 
-### Tech Stack
+#### Tech Stack
 
 - OOP, TDD, CI, CD
 - Agile/XP
 - Ruby, Python, Rails, JavaScript, Typescript, React, Redux, Docker, AWS, Lokalise
 - RSpec, Jest, Cucumber
 
-Homeflow (Oct 2019 - Jul 2021)  
+### Homeflow (Oct 2019 - Jul 2021)  
 
-Seedrs x Republic (Oct 2021 - Present)  
 Software Engineer
 
 Homeflow is a property tech company where I worked as a backend engineer in Ruby on Rails. I honed my software skills maintaining a large distributed microservice infastructure. 
 
-- I led project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells. This led to a multi-million pound deal with Connels being completed.
+#### Projects
+
+- I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells. This led to a multi-million pound deal with Connels being completed.
 - I configured and built applications on a Docker Container Network.
 - I led a project to allow articles for multiple sites to be loaded through a Database API. This project included implementing multi-layered caching and overhauling legacy software.
 - I worked on a project for property withing certain geographical boundaries using geoqueries. 
 
-### Tech Stack
+#### Tech Stack
 
 - OOP, TDD, CI, CD
 - Agile/XP
@@ -47,14 +51,14 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Imaginespace           | Imaginespace is a startup I founded to make high quality Virtual Reality accessible. We created a web based tool to generate 360 art galleries to share across the web. We also curate virtual spaces for a range of artists and creatives. The tool is available at [imaginespace.io](/imaginespace.io). | Processing, Java, P5.js, Javascript, React, Redux, Render.com |
-| Dr. Dolittle VR | Dr. Dolittle VR is a Unity based Virtual Reality game where players use a language of body gestures to communicate with virtual animals. The game uses interactive machine learning to detect the gestures; the library InteractML developed at Goldsmiths implements the machine learning. The application emulates multi-sensory Dance and Movement Therapy where animal responses stimulate players to move and dance! | C#, Unity, InteractML              |
-| Dancing Puppet Tom | Dancing Puppet Tom is an experiment exploring how machine learning can interpret the movement of the human body. A time-series transformer is trained to animate a puppet dancing in two distinct styles. The model is trained using footage of my own dancing. This explores the relationship between artificial intelligence and the authenticity of my own movement. Here are links to the code on Google Colab and the datasets on Huggingface. | Python, Google Colab, Tensorflow, P5.js, Huggingface, Ml5             |
+| Imaginespace           | Imaginespace is a startup I founded to make high quality Virtual Reality accessible. We created a web based tool to generate 360 art galleries to share across the web. We also curate virtual spaces for a range of artists and creatives. The tool is available at [imaginespace.io](imaginespace.io). | Processing, Java, P5.js, Javascript, React, Redux, Render.com |
+| Dr. Dolittle VR | Dr. Dolittle VR is a Unity based Virtual Reality game where players use a language of body gestures to communicate with virtual animals. The game uses interactive machine learning to detect the gestures; the library InteractML developed at Goldsmiths implements the machine learning. The application emulates multi-sensory Dance and Movement Therapy where animal responses stimulate players to move and dance! | C#, Unity, InteractML, Meta Interaction SDK, Unity Native Audio Plugin             |
+| Dancing Puppet Tom | Dancing Puppet Tom is an experiment exploring how machine learning can interpret the movement of the human body. A time-series transformer is trained to animate a puppet dancing in two distinct styles. The model is trained using footage of my own dancing. This explores the relationship between artificial intelligence and the authenticity of my own movement. [Here](https://docs.google.com/document/d/1FtFYWWg1LMdJRGvwQWZ4FXk9PiZopEZMbxZx7Swjaz0/edit?tab=t.0) are links to the code on Google Colab and the datasets on Huggingface. | Python, Google Colab, Tensorflow, P5.js, Huggingface, Ml5             |
 | Dragon Shadow | Dragon Shadow is a physical computing project where users collaboratively dance a dragon silhouette by rotating smartphones. This combines the ancient art of shadow play with modern technology. A Rasberry Pico microcontroller is used to control the puppet and rotational data is sent from the iPhones via Open Sound Control. | Rasberry Pico, C++, OSc, GyroOSC, TouchDesigner             |
-| The Colour Mixing Machine | A webapp to do y. | Ruby              |
-| Musical Trees | A webapp to do y. | Ruby              |
-| SleepLa | A webapp to do y. | Ruby              |
-| Mushroom Picking AR | A webapp to do y. | Ruby              |
+| The Colour Mixing Machine | ‘The Colour Mixing Machine’ is an interactive installation which allows users to explore light and colour. The machine produces a coloured beam which is projected onto a screen. This simulates colour mixing in painting and can educate users on colour theory, through a stimulating visual experience of light. | Arduino, C++             |
+| Musical Trees | Musical Trees is a OpenFrameworks application which draws a class of treelike fractals called L-Systems. Further to drawing custom trees the application generates scores of music where the notes are derived from the length and angle of tree branches. This results in a synaesthesic experience relating visual fractal structures to music. The application code is available here. | C++, OpenFrameworks, OfxGUI, ofxXmlSettings              |
+| SleepLa | SleepLa is a Unity based Virtual Reality meditation app for sleeping and waking up using the power of voice. In the sleeping mode the environment responds to the sound of an exhale giving a sense of agency to a breath excercise. The waking mode transforms a forest from night to day depending on the pitch of their voice. This demonstrates the potential of voice to produce stimulating and naturalistic experiences in Virtual Reality. Documented [here](https://mrtommyjacoblawren.wixsite.com//my-site) is a detailed walkthough of the application development and ideation.  | C#, Unity, MetaVoiceSDK, MetaInteractionSDK             |
+| Mushroom Picking AR | Mushroom Picking AR is a mushroom picking application built with Augmented Reality platform LensStudio. It uses machine vision to detect different types of mushrooms. Each mushroom has a unique set of interactive experiences which inform users whether the mushroom is suitable for eating. This demonstrates the potential of machine vision and Augmented Reality to create playful and educational experiences. [Here](https://sites.google.com/view/mushroom-detection-ar/home) is a detailed walkthrough of the development process. | Ruby              |
 | Equirectangular Distortion | A webapp to do y. | Ruby              |
 
 
