@@ -4,7 +4,7 @@ Email: mrthomasjacoblawrence@hotmail.co.uk
 
 Phone: +447769992670
 
-I am a software engineer and artist. I just acheived a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College. Currently, I work for crowdfunding firm Republic where I lead a team to deliver regulatory software. Furthermore I founded a startup Imaginespace which explores Virtual Reality and art. 
+I am a software engineer and artist. I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College. Currently, I work for crowdfunding firm Republic where I lead a team to deliver regulatory software. Furthermore I founded a startup Imaginespace which explores Virtual Reality and art. 
 
 Human and machine interaction has the potential to revolutionise society both creatively and functionally. My ambition is to help manifest this potential using state of the art Machine Learning and Mixed Reality. I am particularly excited by using technology to create entirely novel solutions and experiences. 
 
