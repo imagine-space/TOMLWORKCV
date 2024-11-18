@@ -72,7 +72,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 - Msc Virtual and Augmented Reality
 - Grade: Pass with Distinction
 
-I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. This has inspired my ambition to explore human and machine interaction.
+I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. my masters thesis is submitted for publication for IEEE AIxVR 2025. This has inspired my ambition to explore human and machine interaction.
 
 ### Makers Academy (Nov 2018 to Feb 2019)
 An intense 3 month software development course that grounded me in the fundamental of professional software development. Specifically training me in a rigorous test driven, and iterative approach to coding.
