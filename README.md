@@ -71,7 +71,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 ### Goldsmiths, University of London (Sep 2023 to Sep 2024)
 - Msc Virtual and Augmented Reality
 - Grade: Pass with Distinction
-- Final thesis is submitted for publication for IEEE AIxVR 2025. 
+- Final thesis is submitted for publication for IEEE AIxVR 2025
 
 I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. This has inspired my ambition to explore human and machine interaction.
 
