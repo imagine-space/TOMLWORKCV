@@ -14,7 +14,7 @@ Human and machine interaction has the potential to revolutionise society both cr
 
 Software Engineer
 
-Seedrs X Republic is a equity crowfunding and venture captial firm where I work as a fullstack engineer. I started as a platform engineer maintaining and building a large monolithic financial system. The platform handles sensitive operations involving client assets and money. I was promoted to the lead of the regulations team. We were responsible for updating the platform to be compliant with new FCA regulations in a fixed timeframe. Furthermore we were in charge of satisfying EU regulations so the firm could expand into Europe.
+Seedrs X Republic is a equity crowfunding and venture captial firm where I worked as a fullstack engineer. I started as a platform engineer maintaining and building a large monolithic financial system. The platform handles sensitive operations involving client assets and money. I was promoted to the lead of the regulations team. We were responsible for updating the platform to be compliant with new FCA regulations in a fixed timeframe. Furthermore we were in charge of satisfying EU regulations so the firm could expand into Europe.
 
 #### Projects
 
