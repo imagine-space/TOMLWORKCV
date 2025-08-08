@@ -1,6 +1,6 @@
 ## Thomas Lawrence
 
-Email: mrthomasjacoblawrence@hotmail.co.uk
+Email: mrtommyjacoblawrence@gmail.com
 
 Phone: +447769992670
 
