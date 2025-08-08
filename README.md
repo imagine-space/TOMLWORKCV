@@ -4,13 +4,13 @@ Email: mrthomasjacoblawrence@hotmail.co.uk
 
 Phone: +447769992670
 
-I am a software engineer and artist. I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College. Currently, I work for crowdfunding firm Republic where I lead a team to deliver regulatory software. Furthermore I founded a startup Imaginespace which explores Virtual Reality and art. 
+I am a software engineer and artist. I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software. Furthermore I founded a startup Imaginespace which explores Virtual Reality and art. 
 
 Human and machine interaction has the potential to revolutionise society both creatively and functionally. My ambition is to help manifest this potential using state of the art Machine Learning and Mixed Reality. I am particularly excited by using technology to create entirely novel solutions and experiences. 
 
 ## Work Experience
 
-### Seedrs x Republic (Oct 2021 - Present)
+### Seedrs x Republic (Oct 2021 - June 2025)
 
 Software Engineer
 
@@ -71,9 +71,11 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 ### Goldsmiths, University of London (Sep 2023 to Sep 2024)
 - Msc Virtual and Augmented Reality
 - Grade: Pass with Distinction
-- Final thesis is submitted for publication for IEEE AIxVR 2025
+- Final thesis was presented as a paper at IEEE VR Workshop on human machine interaction [NIDIT](https://sites.google.com/view/nidit).
 
 I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. This has inspired my ambition to explore human and machine interaction.
+
+- Unity, C#, Unreal, C++, Python, TensorFlow
 
 ### Makers Academy (Nov 2018 to Feb 2019)
 An intense 3 month software development course that grounded me in the fundamental of professional software development. Specifically training me in a rigorous test driven, and iterative approach to coding.
