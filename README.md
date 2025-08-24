@@ -81,7 +81,7 @@ An intense 3 month software development course that grounded me in the fundament
 - A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
 - 11 A*s GCSE
 
-## Projects
+## Personal Projects
 
 | Name                         | Description       | Tech/tools        | Demo              |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
