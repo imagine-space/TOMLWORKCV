@@ -6,7 +6,7 @@ Phone: +447769992670
 
 I am a full-stack software engineer with a diverse range of technological interests.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
-I have 4 years experience as a Ruby on Rails platform engineer with extensive experience building high quality and reliable software. Next I intend to expand my knowledge of development operations through Kubernetes and Terraform. Furthermore I aim to integrate the power of artificial intelligence with my platform developer expertise.
+I have 4 years experience as a Ruby on Rails platform engineer with extensive experience building high quality and reliable software. Next I intend to gain professional experience of development operations through Kubernetes and Terraform. Furthermore I aim to integrate the power of artificial intelligence with my platform developer expertise.
 
 ## Work Experience
 
