@@ -4,9 +4,9 @@ Email: mrtommyjacoblawrence@gmail.com
 
 Phone: +447769992670
 
-I am a software engineer and artist. I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software. Furthermore I founded a startup Imaginespace which explores Virtual Reality and art. 
+I am a full-stack software engineer with a diverse range of technological interests.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
-Human and machine interaction has the potential to revolutionise society both creatively and functionally. My ambition is to help manifest this potential using state of the art Machine Learning and Mixed Reality. I am particularly excited by using technology to create entirely novel solutions and experiences. 
+I have 4 years experience as a Ruby on Rails platform engineer with extensive experience building high quality and reliable software. Next I intend to expand my knowledge of development operations through learning Kubernetes and Terraform. Furthermore I aim to integrate artificial intelligence understanding with my platform developer expertise.
 
 ## Work Experience
 
