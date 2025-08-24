@@ -10,7 +10,7 @@ I have 4 years experience as a Ruby on Rails platform engineer with extensive ex
 
 ## Work Experience
 
-### Seedrs x Republic (Oct 2021 - June 2025)
+### Seedrs x Republic (Oct. 2021 - June 2023, Nov. 2024 - June 2025)
 
 Software Engineer
 
