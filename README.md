@@ -4,6 +4,8 @@ Email: mrtommyjacoblawrence@gmail.com
 
 Phone: +447769992670
 
+Website: [www.tomartcode.com](www.tomartcode.com)
+
 I am a full-stack software engineer with a diverse range of technological interests.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
 I have 4 years experience as a Ruby on Rails platform engineer with extensive experience building high quality and reliable software. I have taken a course in Kubernetes Application development and am looking to apply these skills in a professional setting. Furthermore I intend to combine the artificial intelligence skills from my masters course with my platform developer experience.
