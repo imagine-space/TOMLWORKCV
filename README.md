@@ -53,12 +53,6 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 - Ruby, Rails, JavaScript, React, Redux, AWS S3, Docker, Liquid, Jenkins, Docker Swarm
 - RSpec, Jest, React Testing Library
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Education
 
 ### Goldsmiths, University of London (Sep 2023 to Sep 2024)
@@ -88,11 +82,6 @@ An intense 3 month software development course that grounded me in the fundament
 - Academic scholar
 - A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
 - 11 A*s GCSE
-
-<br>
-<br>
-<br>
-<br>
 
 ## Social Good
 
