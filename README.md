@@ -5,8 +5,6 @@ Website: [www.tomartcode.com](www.tomartcode.com)
 
 I am a full-stack software engineer with a diverse range of technological interests and expertise.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
-I have 4 years experience as a Ruby on Rails platform engineer with extensive experience building high quality and reliable software. I have taken a course in Kubernetes application development with a view to applying these skills professionally. I have expertise in building novel artificial intelligence systems from my masters course. This combined with my extensive platform developer experience makes me a great candidate for a modern software engineer position.
-
 ## Work Experience
 
 ### Seedrs x Republic (Oct. 2021 - June 2023, Nov. 2024 - June 2025)
