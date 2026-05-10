@@ -16,15 +16,15 @@ I have 4 years experience as a Ruby on Rails platform engineer with extensive ex
 
 Software Engineer
 
-Seedrs X Republic is a equity crowfunding and venture captial firm where I worked as a fullstack engineer. I started as a platform engineer maintaining and building a large monolithic financial system. The platform handles sensitive operations involving client assets and money. I was promoted to the lead of the regulations team. We were responsible for updating the platform to be compliant with new FCA regulations in a fixed timeframe. Furthermore we were in charge of satisfying EU regulations so the firm could expand into Europe.
+Seedrs X Republic is a equity crowfunding and venture captial firm where I worked as a fullstack engineer. I started as a platform engineer maintaining and building a large monolithic financial system. The platform handles sensitive operations involving client assets and money. I was promoted to the lead of the regulations team.
 
 #### Projects
 
-- I worked on a payment integration project with automated payment provider Banked. This allowed users to pay through automated bank transfer which is more convenient than using a card or a manual bank transfer.
-- I maintained and built software to handle client money and asset operations. These involved some of the most exciting startups and venture capital institutions in Europe. We handled mergers, acquisitions and floatations.
-- I built a first of its kind drawdowns investment product for venture capital fund Atomico. Allowing retail investors to invest in venture capital funds through the Seedrs platform. The investment process was split into multiple tranches where automated payments were collected and processed from users and assets distributed. The complexity here was investigating how a large financial monolithic application could handle a new investment process.
-- I was promoted to the lead of the FCA UK regulation team. We were tasked with updating the Seedrs platform to satisfy FCA regulations by a fixed deadline. Both our deadlines were acheived and we successfully passed an external regulatory audit. The project involved managing and motivating a team whilst translating specifications from stakeholders in compliance to technical solutions.
-- After completing the FCA regulations, I led the team in updating the platform to satisfy a new set of European regulations. This allowed Republic to offer investment opportunities to European investors. Again this project involved meeting tight deadlines as the whole company was focused on European expansion. A large part of the project involved internationalisation and localistation of the website which was difficult owing to the multiple sources of content in the ecosystem. We successfully satisfied the regulations on time.
+- I worked on a payment integration project with automated payment provider Banked.
+- I maintained and built software to handle client money and asset operations, involving some of the most exciting startups and venture capital institutions in Europe.
+- I built a first of its kind drawdowns investment product for venture capital fund Atomico. Allowing retail investors to invest in venture capital funds through the Seedrs platform.
+- I was promoted to the lead of the FCA UK regulation team. We were tasked with updating the Seedrs platform to satisfy FCA regulations by a fixed deadline.
+- After completing the FCA regulations, I led the team in updating the platform to satisfy a new set of European regulations so the company could expand across Europe.  
 
 #### Tech Stack
 
@@ -41,10 +41,9 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 
 #### Projects
 
-- I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells. This led to a multi-million pound deal with Connells being completed.
+- I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells.
 - I configured and built applications on a Docker Container Network.
 - I led a project to allow articles for multiple sites to be loaded through a Database API. This project included implementing multi-layered caching and overhauling legacy software.
-- I worked on a project for locating property within certain geographical boundaries using geoqueries. 
 
 #### Tech Stack
 
@@ -60,7 +59,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 - Grade: Pass with Distinction
 - Final thesis was presented as a paper at IEEE VR Workshop on human machine interaction [NIDIT](https://sites.google.com/view/nidit).
 
-I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures. Virtual Reality animals each responded uniquely to the gestures. This has inspired my ambition to explore human and machine interaction.
+I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures.
 
 - Unity, C#, Unreal, C++, Python, TensorFlow
 
@@ -76,7 +75,7 @@ An intense 3 month software development course that grounded me in the fundament
 - Grade: 2:1
 - Academic Scholar
 
- I honed my problem solving capabilities in a wide range of practicle and theoretical subjects. In my final project I collaborated with researchers at the Diamond Light Source accelerator. I researched how to optimise the performance of evolutionary algorithms for deducing the optimal path of a beamline. This began my fascination with machine learning and software. I completed modules in a broad range of topics including Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics.
+ In my final project I collaborated with researchers at the Diamond Light Source accelerator. I researched how to optimise the performance of evolutionary algorithms for deducing the optimal path of a beamline. I completed modules in a broad range of topics including Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics.
 
 ### Whitgift School, Croydon (Sep 2006 - Aug 2013)
 - Academic scholar
