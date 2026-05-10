@@ -1,6 +1,6 @@
 ## Thomas Lawrence
 
-Email: mrtommyjacoblawrence@gmail.com   Phone: +447769992670   Website: [www.tomartcode.com](www.tomartcode.com)
+Email: mrtommyjacoblawrence@gmail.com        Phone: +447769992670     Website: [www.tomartcode.com](www.tomartcode.com)
 
 I am a full-stack software engineer with a diverse range of technological interests and expertise.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
