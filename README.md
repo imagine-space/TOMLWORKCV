@@ -23,10 +23,9 @@ Seedrs X Republic is a equity crowfunding and venture captial firm where I worke
 
 #### Tech Stack
 
-- OOP, TDD, CI, CD
-- Agile/XP
-- Ruby, Python, Rails, JavaScript, Typescript, React, Redux, Docker, AWS, Lokalise
-- RSpec, Jest, Cucumber
+- Ruby, Python, Rails, JavaScript, Typescript, React, Redux, Docker, AWS, Lokalise, RSpec, Jest, Cucumber
+
+&nbsp;
 
 ### Homeflow (Oct 2019 - Jul 2021)  
 
@@ -42,10 +41,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 
 #### Tech Stack
 
-- OOP, TDD, CI, CD
-- Agile/XP
-- Ruby, Rails, JavaScript, React, Redux, AWS S3, Docker, Liquid, Jenkins, Docker Swarm
-- RSpec, Jest, React Testing Library
+- Ruby, Rails, JavaScript, React, Redux, AWS S3, Docker, Liquid, Jenkins, Docker Swarm, RSpec, Jest, React Testing Library
 
 ## Education
 
@@ -60,10 +56,10 @@ I developed a range of cutting-edge projects spanning mixed reality, machine lea
 
 ### Makers Academy (Nov 2018 to Feb 2019)
 An intense 3 month software development course that grounded me in the fundamental of professional software development. Specifically training me in a rigorous test driven, and iterative approach to coding.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+- Ruby, Rails, JavaScript, RSpec, Jasmine
+
+&nbsp;
 
 ### New College, Oxford (Graduated July 2018)
 - BA Physics
