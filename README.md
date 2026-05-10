@@ -90,6 +90,6 @@ An intense 3 month software development course that grounded me in the fundament
 
 ## Hobbies
 
-I am a keen visual artist who uses an eclectic range of media including drawing, painting and print. I take regular classes at The Art Academy London and took a residency at Karuizawa Mokuhanga School. The synergy of my artistic and technological pursuits is evident in how I approach problem solving. I am excited to further explore this synergy.
+I am a keen visual artist who uses an eclectic range of media including drawing, painting and print. I take regular classes at The Art Academy London and took a residency at Karuizawa Mokuhanga School.
 
 I enjoy music and play the shakuhachi, play the drums, and throat sing at beginner level.
