@@ -1,6 +1,7 @@
 ## Thomas Lawrence
 
-Email: mrtommyjacoblawrence@gmail.com     Phone: +447769992670     Website: [www.tomartcode.com](www.tomartcode.com)
+Email: mrtommyjacoblawrence@gmail.com     Phone: +447769992670
+Website: [www.tomartcode.com](www.tomartcode.com)
 
 I am a full-stack software engineer with a diverse range of technological interests and expertise.  I achieved a distinction in a Masters course in Virtual and Augmented Reality at Goldsmiths College where my final project explored machine learning and human movement. Most recently I worked for crowdfunding firm Republic where I led a team to deliver regulatory software.
 
@@ -72,11 +73,6 @@ An intense 3 month software development course that grounded me in the fundament
 - Academic Scholar
 
  In my final project I collaborated with researchers at the Diamond Light Source accelerator. I researched how to optimise the performance of evolutionary algorithms for deducing the optimal path of a beamline. I completed modules in a broad range of topics including Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics.
-
-### Whitgift School, Croydon (Sep 2006 - Aug 2013)
-- Academic scholar
-- A Levels : A* in Mathematics, A in Further Mathematics, Chemistry and Physics
-- 11 A*s GCSE
 
 ## Social Good
 
