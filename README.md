@@ -18,7 +18,7 @@ Seedrs X Republic is a equity crowfunding and venture captial firm where I worke
 - I worked on a payment integration project with automated payment provider Banked.
 - I maintained and built software to handle client money and asset operations, involving some of the most exciting startups and venture capital institutions in Europe.
 - I built a first of its kind drawdowns investment product for venture capital fund Atomico. Allowing retail investors to invest in venture capital funds through the Seedrs platform.
-- I was promoted to the lead of the FCA UK regulation team. We were tasked with updating the Seedrs platform to satisfy FCA regulations by a fixed deadline.
+- I was promoted to the lead of the FCA UK regulation team. We successfully updated the Seedrs platform to satisfy FCA regulations by a fixed deadline.
 - After completing the FCA regulations, I led the team in updating the platform to satisfy a new set of European regulations so the company could expand across Europe.  
 
 #### Tech Stack
