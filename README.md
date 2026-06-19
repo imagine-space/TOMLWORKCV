@@ -36,6 +36,7 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 #### Projects
 
 - I led a project to craft a database API to be used by external clients including the largest estate agency group in the UK Connells.
+- I worked on a project for locating property within certain geographical boundaries using geoqueries.
 - I configured and built applications on a Docker Container Network.
 - I led a project to allow articles for multiple sites to be loaded through a Database API. This project included implementing multi-layered caching and overhauling legacy software.
 
