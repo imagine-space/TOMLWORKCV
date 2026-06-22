@@ -71,7 +71,7 @@ An intense 3 month software development course that grounded me in the fundament
 
 ## Role experience
 
-At Republic I had extensive experience deploying cloud services on AWS inluding Elastic Container Services, Kubernetes, and AWS Lambda. I also have experience with Google Cloud including deploying Docker services using Google Cloud Run and data integrations with BigQuery. In my next role I am looking to master Cloud architecture, specifically Terraform and Kubernetes. 
+At Republic, I had extensive experience deploying cloud services on AWS inluding Elastic Container Services, Kubernetes, and AWS Lambda. I also have experience with Google Cloud including deploying Docker services using Google Cloud Run and data integrations with BigQuery. In my next role I am looking to master Cloud architecture, specifically Terraform and Kubernetes. 
 
 I am a fluent Python programmer, I have trained and deployed machine learning models with Tensorflow on Google Colab. Furthermore at Republic I built and maintained a KYC integration API written in Flask and deployed to AWS Lambda.
 
