@@ -69,6 +69,12 @@ An intense 3 month software development course that grounded me in the fundament
 
  In my final project I collaborated with researchers at the Diamond Light Source accelerator. I researched how to optimise the performance of evolutionary algorithms for deducing the optimal path of a beamline. I completed modules in a broad range of topics including Astrophysics, Theoretical Physics, Complexity, Advanced Physics Algorithms and Statistical Analysis for Experimental Physics.
 
+## Role experience
+
+At Republic I had extensive experience deploying cloud services on AWS inluding Elastic Container Services, Kubernetes, and AWS Lambda. I have deployed Docker services using Google Cloud Run and data integrations with BigQuery. In my next role I am looking to master Cloud architecture, specifically Terraform and Kubernetes. 
+
+I am a fluent Python programmer, I have trained and deployed machine learning models with Tensorflow on Google Colab. Furthermore at Republic I built and maintained a KYC integration API written in Flask and deployed to AWS Lambda.
+
 ## Social Good
 
 - I volunteered at the Science Museum where I taught children to code through CoderDojo.
