@@ -57,12 +57,12 @@ I developed a range of cutting-edge projects spanning mixed reality, machine lea
 
 - Unity, C#, Unreal, C++, Python, TensorFlow
 
+&nbsp;
+
 ### Makers Academy (Nov 2018 to Feb 2019)
 An intense 3 month software development course that grounded me in the fundamental of professional software development. Specifically training me in a rigorous test driven, and iterative approach to coding.
 
 - Ruby, Rails, JavaScript, RSpec, Jasmine
-
-&nbsp;
 
 ### New College, Oxford (Graduated July 2018)
 - BA Physics
