@@ -15,7 +15,7 @@ Seedrs X Republic is a equity crowfunding and venture captial firm where I worke
 
 #### Projects
 
-- I worked on a payment integration project with automated payment provider Banked.
+- I implemented a payment integration project with automated payment provider Banked.
 - I maintained and built software to handle client money and asset operations, involving some of the most exciting startups and venture capital institutions in Europe.
 - I built a first of its kind drawdowns investment product for venture capital fund Atomico. Allowing retail investors to invest in venture capital funds through the Seedrs platform.
 - I was promoted to the lead of the FCA UK regulation team. We successfully updated the Seedrs platform to satisfy FCA regulations by a fixed deadline.
@@ -49,7 +49,9 @@ Homeflow is a property tech company where I worked as a backend engineer in Ruby
 ### Goldsmiths, University of London (Sep 2023 to Sep 2024)
 - Msc Virtual and Augmented Reality
 - Grade: Pass with Distinction
-- Final thesis was presented as a paper at IEEE VR Workshop on human machine interaction [NIDIT](https://sites.google.com/view/nidit).
+- XR Hack Participant 2024
+- Final thesis was presented as a paper at 2025 IEEE VR Workshop on human machine interaction [NIDIT](https://sites.google.com/view/nidit)
+- Final thesis was also presented at Conference of Movement and Computing [MOCO 2026](https://moco26.movementcomputing.org)
 
 I developed a range of cutting-edge projects spanning mixed reality, machine learning, and computer graphics. My final project used interactive machine learning to detect a language of user body gestures.
 
@@ -78,3 +80,6 @@ An intense 3 month software development course that grounded me in the fundament
 ## Hobbies
 
 I am a keen visual artist who uses an eclectic range of media including drawing, painting and print. I take regular classes at The Art Academy London and took a residency at Karuizawa Mokuhanga School.
+
+I am a avid hackathon participant most recently taking part in XR Hack 2024 and XRCC 2026.
+
