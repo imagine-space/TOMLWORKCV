@@ -85,3 +85,5 @@ I am a fluent Python programmer, I have trained and deployed machine learning mo
 ## Hobbies
 
 I am a keen visual artist who uses an eclectic range of media including drawing, painting and print. I take regular classes at The Art Academy London and took a residency at Karuizawa Mokuhanga School.
+
+Avid Hackathon participant including XRHack 2024 and XRCC 2026.
